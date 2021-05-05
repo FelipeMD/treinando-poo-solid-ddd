@@ -9,12 +9,26 @@ namespace ConsoleApp1
         public int idade;
         public string nome;
 
-        /*construtor*/
+        /*construtor com parametro*/
+        // public Pessoa()
+        // {
+        //     nome = "felipe";
+        //     genero = "masculino";
+        //     idade = 2;
+        // }
+
+        /*construtor vazio*/
         public Pessoa()
         {
-            nome = "felipe";
-            genero = "masculino";
-            idade = 2;
+            
+        }
+        
+        /*construtor sem parametro*/
+        public Pessoa(string nome, int idade, string genero)
+        {
+            this.nome = nome;
+            this.idade = idade;
+            this.genero = genero;
         }
         
         /*metodo*/
