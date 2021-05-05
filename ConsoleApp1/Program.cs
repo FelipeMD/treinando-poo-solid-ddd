@@ -14,12 +14,8 @@ namespace ConsoleApp1
             endereco.numero = 1;
             endereco.rua = "ruaTeste";
 
-            pessoa.nome = "teste";
-            pessoa.idade = 2;
-            pessoa.genero = "seila";
-            
-            pessoa.Identificar();
             endereco.CadastroEndereco();
+            pessoa.Identificar();
         }
     }
 }
