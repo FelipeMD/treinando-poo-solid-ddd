@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oAB5bd6KTfuehwusQji5TkytALlvjUBC8IlgZKk+tdZUAr6St6JLRbRR4tyyWT2Q64hGV5xd1jcyKJNgLoYZhA==",
+  "dgSpecHash": "V+Mq9cB3Nv0iQn9X5Lk3vOZ/908uPtAALvfLC7BYHT90Cel6JRYLtOD3yMd6qmlWUMPRL/VdEZe6zCmufeYRmg==",
   "success": true,
-  "projectFilePath": "/home/felipe/RiderProjects/treinando-poo-solid-ddd/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\fmcab\\RiderProjects\\treinando-poo-solid-ddd\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

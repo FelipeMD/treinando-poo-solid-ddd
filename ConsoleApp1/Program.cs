@@ -8,15 +8,13 @@ namespace ConsoleApp1
         {
             /*criando objeto*/
             /*new instancia a classe*/
-            Pessoa pessoa = new Pessoa();
-            Endereco endereco = new Endereco();
-
-            endereco.numero = 1;
-            endereco.rua = "ruaTeste";
-
-            endereco.CadastroEndereco();
+            
+            Endereco endereco2 = new Endereco("rua 1", 10);
+            
             Pessoa pessoa2 = new Pessoa("felipe", 1, "masculino");
+            
             pessoa2.Identificar();
+            endereco2.CadastroEndereco();
         }
     }
 }
